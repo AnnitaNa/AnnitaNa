@@ -1,5 +1,11 @@
 # < Tati's profile >
+<!-- MEMES & JOKES  -->
 
+
+<!-- https://github.com/vbriand/vbriand/edit/master/README.md -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+
+--- 
 
 <!--  STATS -->
 <div>
@@ -8,15 +14,6 @@
 <!-- Top Langs -->
 <img height= "195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnitaNa&theme=radical">
 </div>
-
-<!-- MEMES & JOKES  -->
-<p>Hi! I am programmer who likes to have a fun and light environment!</p>
-<br>
-<!-- https://github.com/ABSphreak/readme-jokes/edit/master/README.md --->
-<img src="https://readme-jokes.vercel.app/api?theme=radical"  >
-
-<!-- https://github.com/vbriand/vbriand/edit/master/README.md -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
 ---
 
