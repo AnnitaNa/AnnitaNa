@@ -9,7 +9,7 @@
 
 
 <!-- https://github.com/PiyushSuthar/github-readme-quotes -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" style="background-color: black">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" >
 
 ---
 <div>
