@@ -1,13 +1,9 @@
 # < Tati's profile >
+<!-- MEMES & JOKES  -->
 
 
-<!------   MEMES & JOKES  ---------->
-
-<!-- site: https://github.com/shravan20/github-readme-quotes-->
-<!-- To personalizate quotes, you just need to put quotesUrl= link_of_the_file  . The site above explais how to do it  -->
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default&quotesUrl=https://github.com/AnnitaNa/AnnitaNa/blob/main/quotes.json)
-
+<!-- https://github.com/vbriand/vbriand/edit/master/README.md -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 --- 
 
 <!--  STATS -->
