@@ -1,7 +1,7 @@
 # < Tati's profile >
 
 
-<!------   MEMES & JOKES  ---------->
+<!------   MEMES & JOKES   ---------->
 
 <!-- site: https://github.com/shravan20/github-readme-quotes-->
 <!-- To personalizate quotes, you just need to put quotesUrl= link_of_the_file  . The site above explais how to do it  -->
