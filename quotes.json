@@ -2,33 +2,6 @@
    {
         "quote":"First solve the problem. Then write the code",
         "author":"John Johnson"
-    },
-    
-    {
-        "quote":"It is harder to read code than to write it",
-        "author":"Joel Spolsky"
-    },
-    
-    {
-        "quote":"Learn from the mistakes of others. You can't live long enough to make them all yourself",
-        "author":"Eleanor Roosevelt"
-    },
-    
-    
-     {
-        "quote":"We cannot solve our problems with the same thinking we used when we created them.",
-        "author":"Albert Einstein"
-    
-     },
-    
-    {
-        "quote":"The best error message is the one that never shows up.",
-        "author":"Thomas Fuchs"
-    },
-    
-    {
-        "quote":"Testing leads to failure, and failure leads to understanding.",
-        "author":"Burt Rutan"
-    },
+    }
     
 ]
