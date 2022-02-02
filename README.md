@@ -47,6 +47,6 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a front-end developer who is still learning how to fly! 
+I am a front-end developer who is still learning how to fly! :D
 
 
