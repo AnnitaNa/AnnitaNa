@@ -46,7 +46,6 @@
     <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
     <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
     <img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt= "Canva logo" title="Canva" height="25">
-                                                            
 </div>
 
 ## 📚  &nbsp;   To learn
@@ -54,7 +53,8 @@
 <div>
     <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
     <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-     <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+    <img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=#512BD4" alt=".NET logo" title=".NET" height="25">
 </div>
 
 --- 
