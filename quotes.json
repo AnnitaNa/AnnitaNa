@@ -1,3 +1,12 @@
+/* model of writing
+
+    {
+        "quote":"",
+        "author":""
+    },
+
+*/
+
 [
     {
         "quote":"First solve the problem. Then write the code",
@@ -10,5 +19,29 @@
     {
         "quote":"Learn from the mistakes of others. You can't live long enough to make them all yourself",
         "author":"Eleanor Roosevelt"
-    }
+    },
+    {
+        "quote":"Java is to JavaScript what car is to Carpet.",
+        "author":"Chris Heilmann"
+    },
+    {
+        "quote":"Experience is the name everyone gives to their mistakes.",
+        "author":"Oscar Wilde"
+    },
+    {
+        "quote":"Code is like humor. When you have to explain it, it’s bad.",
+        "author":"Cory House"
+    },
+    {
+        "quote":"Optimism is an occupational hazard of programming: feedback is the treatment.",
+        "author":"Kent Beck"
+    },
+    {
+        "quote":"Simplicity is the soul of efficiency.",
+        "author":"Austin Freeman"
+    },
+    {
+        "quote":"Make it work, make it right, make it fast.",
+        "author":"Kent Beck"
+    },
 ]
