@@ -52,14 +52,15 @@ My github: https://github.com/AnnitaNa
     <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
     <img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt= "Canva logo" title="Canva" height="25">
    <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt= "Angular logo" title="Angular" height="25">
+   <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6" alt= "TypeScript logo" title="TypeScript" height="25">
+    <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="BootStrap logo" title="BootStrap" height="25" />
 </div>
 </div>
 
 ## 📚 &nbsp; Learning
 <div>
-    <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="BootStrap logo" title="BootStrap" height="25" />
+    <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
     <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt= "Figma logo" title="Figma" height="25">
-    <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6" alt= "TypeScript logo" title="TypeScript" height="25">
 </div>
 
 
@@ -68,7 +69,6 @@ My github: https://github.com/AnnitaNa
 <div>
     <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
     <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-    <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
     <img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=#512BD4" alt=".NET logo" title=".NET" height="25">
 </div>
 
