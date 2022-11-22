@@ -54,12 +54,12 @@ My github: https://github.com/AnnitaNa
    <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt= "Angular logo" title="Angular" height="25">
    <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=3178C6" alt= "TypeScript logo" title="TypeScript" height="25">
     <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="BootStrap logo" title="BootStrap" height="25" />
+      <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
 </div>
 </div>
 
 ## 📚 &nbsp; Learning
 <div>
-    <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
     <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt= "Figma logo" title="Figma" height="25">
 </div>
 
